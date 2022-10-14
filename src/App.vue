@@ -20,7 +20,6 @@ export default {
           img: '/images/card-img-2.jpg',
           title: 'Обзорная экскурсия по рекам и каналам с остановками Hop on Hop Off 2020',
           price: 900,
-          berthPrice: 1200,
           times: ['12:00', '12:00', '12:00'],
           travelTime: 2,
           mark: {
